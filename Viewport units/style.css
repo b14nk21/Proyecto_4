@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.dimension{
+    background-color: aqua;
+    border: 1px solid rgb(51, 61, 53);
+}
+
+#d1{
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+#d2{
+    width: 100vw;
+    height: 50vh;
+}
+
+#d3{
+    width: 100vw;
+    height: 30vh;
+}
+
+#d1_1{
+    width: 48vw;
+    height: 4vh;
+    background-color: antiquewhite;
+}
+
+#d1_2{
+    width: 48vw;
+    height: 14vh;
+    background-color: azure;
+}
